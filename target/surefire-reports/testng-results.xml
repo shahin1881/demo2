@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26090" started-at="2020-04-30T13:39:40 IST" finished-at="2020-04-30T13:40:06 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="26090" started-at="2020-04-30T13:39:40 IST" finished-at="2020-04-30T13:40:06 IST">
+      <class name="com.tests.Git_FB_MavenProject5.LoginTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.tests.Git_FB_MavenProject5.LoginTest@72d818d1]" name="SetUp" is-config="true" duration-ms="25144" started-at="2020-04-30T13:39:40 IST" finished-at="2020-04-30T13:40:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:com.tests.Git_FB_MavenProject5.LoginTest@72d818d1]" name="doLogin" duration-ms="705" started-at="2020-04-30T13:40:05 IST" finished-at="2020-04-30T13:40:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:com.tests.Git_FB_MavenProject5.LoginTest@72d818d1]" name="closing" is-config="true" duration-ms="188" started-at="2020-04-30T13:40:05 IST" finished-at="2020-04-30T13:40:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- com.tests.Git_FB_MavenProject5.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
