@@ -23,6 +23,7 @@ public class LoginTest {
    
    @Test
    public void doLogin(){
+	System.out.println("Executing Login Test");
    driver.findElement(By.xpath("//*[@id='email']")).sendKeys("shahinsayyed66@gmail.com");
    driver.findElement(By.xpath("//*[@id='pass']")).sendKeys("shahin123");
    driver.findElement(By.xpath("//*[@id='u_0_b']")).click();
